@@ -1,5 +1,0 @@
-# progetto
-
-commento
-
-altro commento
